@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063467669716",
+    "project_id": "pgl-app-a1b70",
+    "storage_bucket": "pgl-app-a1b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063467669716:android:30b6d4731a61f3dd508341",
+        "android_client_info": {
+          "package_name": "com.example.morales_colmenares_adolfo_pgl_proyecto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaqfP5OJK3rYdxlFxFs2jdIgXVLSulyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
